@@ -1,0 +1,22 @@
+{
+  "name": "promiseaplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promiseAPlus",
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dun-cat/promiseAPlus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dun-cat/promiseAPlus/issues"
+  },
+  "homepage": "https://github.com/dun-cat/promiseAPlus#readme"
+}
